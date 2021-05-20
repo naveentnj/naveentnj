@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rnaveentnj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rnaveentnj)
 
-## I'm a Student , Developer, and Entrepreneur!!
+## I'm a Student , Developer and Entrepreneur!
 
 - 🌱 In the learning curve of life. 
-- Exploring 
+- 🌾 Exploring World of Oppurtunities to Create The Tech Empire
 - 👨‍💻 Enthusiatic about : Tech , Environment , Entrepreneurship and Programming
 - 👯 I’m looking to collaborate with like minded people to solve nations problem
 - 🥅 2021 Goals: To be focused on learning and Build my startup to provide solutions for ecology
