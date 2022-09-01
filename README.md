@@ -24,4 +24,4 @@
 
 [twitter]: https://twitter.com/rnaveentnj/
 [instagram]: https://www.instagram.com/naveentnj/
-[linkedin]: https://www.linkedin.com/in/r-naveen-cse-0a6074100/
+[linkedin]: https://www.linkedin.com/in/rs-naveen-engineer/
