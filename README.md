@@ -5,10 +5,10 @@
 ## I'm a Student , Developer and Entrepreneur!
 
 - 🌱 In the learning curve of life. 
-- 🌾 Exploring World of Oppurtunities to Create The Tech Empire
-- 👨‍💻 Enthusiatic about : Tech , Environment , Entrepreneurship and Programming
-- 👯 I’m looking to collaborate with like minded people to solve nations problem
-- 🥅 2021 Goals: To be focused on learning and Build my startup to provide solutions for ecology
+- 🌾 Exploring World of Oppurtunities to Create Better Future in with technology
+- 👨‍💻 Enthusiatic about : Tech , Programming , Robotics , environment
+- 👯 I’m looking to collaborate with like minded people to solve emerging world's problem
+- 🥅 2022 Goals: To be build a successful career and create better positive impact
 - ⚡ Fun fact: I love to travel / read books 
 
 
