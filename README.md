@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rnaveentnj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/rnaveentnj)
 
-## I'm a Student , Developer and Entrepreneur!
+## I'm a Passionate Engineer Exploring with Curiousity!
 
 - 🌱 In the learning curve of life. 
 - 🌾 Exploring World of Oppurtunities to Create Better Future in with technology
