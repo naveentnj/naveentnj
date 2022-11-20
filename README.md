@@ -13,7 +13,7 @@
 
 
 ### Connect with me:
-https://icons8.com/icon/13963/twitter
+
 
 
 [<img align="left" alt="twitter-img" | Twitter" width="22px" src="https://img.icons8.com/color/48/null/twitter--v1.png"/>][twitter]
