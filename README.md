@@ -1,4 +1,4 @@
-#### Hello buddy, it's me Naveen 👋
+# Hello buddy, it's me Naveen 👋
 
 ## I'm a Passionate Engineer Exploring with Curiousity!
 
