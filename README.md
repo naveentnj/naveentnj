@@ -1,12 +1,12 @@
-### Hi there, NAVEEN RAJAMANICKAM 👋
+### Hello buddy, it's me Naveen 👋
 
 ## I'm a Passionate Engineer Exploring with Curiousity!
 
 - 🌱 In the learning curve of life. 
-- 🌾 Exploring World of Oppurtunities to Create Better Future in with technology
-- 👨‍💻 Enthusiatic about : Tech , Programming , Robotics , environment
+- 🌾 Exploring World of Oppurtunities to Create Better Future in the Wolrd with technology
+- 👨‍💻 Enthusiatic about : Tech , Programming , Robotics , Environment
 - 👯 I’m looking to collaborate with like minded people to solve emerging world's problem
-- 🥅 2022 Goals: To be build a successful career and create better positive impact
+- 🥅 2023 Goals: To be build a successful career and create better positive impact
 - ⚡ Fun fact: I love to travel / read books 
 
 
@@ -22,6 +22,5 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/rnaveentnj/
 [instagram]: https://www.instagram.com/naveentnj/
 [linkedin]: https://www.linkedin.com/in/rs-naveen-engineer/
