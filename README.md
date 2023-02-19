@@ -10,8 +10,6 @@
 - ⚡ Fun fact: I love to travel / read books 
 
 <br />
-<br />
-
 
 ### Connect with me:
 
