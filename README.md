@@ -14,12 +14,15 @@
 
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>][devto]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>][medium]
 
 
 <br />
 <br />
 <br />
 
-
+[devto]: https://dev.to/naveentnj
 [linkedin]: https://www.linkedin.com/in/rs-naveen-engineer/
+[medium]: https://medium.com/@rnaveen.tkt
