@@ -3,7 +3,7 @@
 ## I'm a Passionate Engineer Exploring with Curiousity!
 
 - 📚 In the learning curve of life. 
-- 🌾 Exploring World of Oppurtunities to Create Better Future in the Wolrd with technology
+- 🌾 Exploring World of Oppurtunities to Create Better Future in the World with technology
 - 👨‍💻 Enthusiatic about : Tech , Programming , Robotics , Environment
 - 👯 I’m looking to collaborate with like minded people to solve emerging world's problem
 - 🥅 2023 Goals: To be build a successful career and create better positive impact
