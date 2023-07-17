@@ -1,6 +1,6 @@
 # Hello People, it's me Naveen 
 
-## I'm a Passionate Engineer Exploring with Curiousity!
+## I'm a Passionate Student Exploring Engineering with Curiousity!
 
 - 📚 In the learning curve of life. 
 - 🌾 Exploring World of Oppurtunities to Create Better Future in the World with technology
