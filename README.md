@@ -6,7 +6,7 @@
 - 🌾 Exploring World of Oppurtunities to Create Better Future in the World with technology
 - 👨‍💻 Enthusiatic about : Machine Learning , Data Science , Tech , Programming , Robotics , Environment
 - 👯 I’m looking to collaborate with like minded people to solve emerging world's problem
-- 🥅 2023 Goals: To be build a successful career and create better positive impact
+- 🥅 2024 Goals: To be build meaningful products and create better positive impact
 - ⚡ Fun fact: I love to travel / read books 
 
 <br />
